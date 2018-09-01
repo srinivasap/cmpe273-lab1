@@ -1,0 +1,11 @@
+srini@88e9fe511b8c Lab1 $ python3 http_call.py
+Call completion time  Sat, 01 Sep 2018 09:20:40 GMT  with X-Request-Id  81bee002-e2c1-4fd6-8b1f-8a196718a5d2
+Call completion time  Sat, 01 Sep 2018 09:20:40 GMT  with X-Request-Id  ca093ba6-93cb-4252-91e5-fe38125e26b3
+Call completion time  Sat, 01 Sep 2018 09:20:41 GMT  with X-Request-Id  d2cf74e0-186d-4872-8ee8-c907330a094c
+srini@88e9fe511b8c Lab1 $
+srini@88e9fe511b8c Lab1 $
+srini@88e9fe511b8c Lab1 $ python3 http_async_call.py
+Call completion time  Sat, 01 Sep 2018 09:20:47 GMT  with X-Request-Id  c7b9006c-45cc-42fc-9233-3148202cbec7
+Call completion time  Sat, 01 Sep 2018 09:20:47 GMT  with X-Request-Id  c99165c5-e2ac-47e3-9113-5954361e3e02
+Call completion time  Sat, 01 Sep 2018 09:20:47 GMT  with X-Request-Id  60bcf477-b6e9-41a1-8ba1-87b6994a86de
+srini@88e9fe511b8c Lab1 $
